@@ -224,7 +224,7 @@ p.posot-date span {
  }
 
 /*モバイル版*/
-@media (max-width:600px;){
+@media (max-width: 600px) {
     .page-title {
         font-size: 2.5rem;
     }
@@ -310,7 +310,7 @@ p.posot-date span {
 .main-nav {
 
 font-size: 1rem;
-,margin-top: 10px;
+margin-top: 10px;
 }
 
 .main-nav li {
