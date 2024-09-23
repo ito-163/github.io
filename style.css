@@ -92,7 +92,7 @@ img{
 }
 
 #home{
-    background-image: url(../images/cafe.jpg),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url(cafe.jpg),linear-gradient(#c9ffbf,#ffafbd);
     min-height: 100vh;
     background-blend-mode: soft-light;
 }
