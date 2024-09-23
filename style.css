@@ -92,7 +92,7 @@ img{
 }
 
 #home{
-    background-image: url(cafe.jpg),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url(https://github.com/ito-163/github.io/blob/main/cafe.jpg?raw=true),linear-gradient(#c9ffbf,#ffafbd);
     min-height: 100vh;
     background-blend-mode: soft-light;
 }
